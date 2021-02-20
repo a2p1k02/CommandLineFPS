@@ -6,4 +6,4 @@ Please see the source file on how to configure your command line before running.
 This is designed for Linux
 
 ### How to compile this program
-1. ```g++ CommandLineFPS.cpp -o ConFPS -lncurses```
+```g++ CommandLineFPS.cpp -o ConFPS -lncurses```

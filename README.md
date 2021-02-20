@@ -7,3 +7,5 @@ This is designed for Linux
 
 ### How to compile this program: 
 ```g++ CommandLineFPS.cpp -o ConFPS -lncurses```
+
+## ENJOY!
